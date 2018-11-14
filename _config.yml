@@ -27,6 +27,7 @@ description: "When we strive to become better than we are, everything around us 
 # List of links in the navigation bar
 navbar-links:
   Home: "https://coffeetalk101.github.io/"
+  Books: "books"
 #  About Me: "aboutme"
 #  Index: "index"
 #  Projects: "projects"
