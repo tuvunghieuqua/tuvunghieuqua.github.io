@@ -27,9 +27,9 @@ description: "When we strive to become better than we are, everything around us 
 # List of links in the navigation bar
 navbar-links:
   Home: "https://coffeetalk101.github.io/"
-  About Me: "aboutme"
-  Index: "index"
-  Projects: "projects"
+#  About Me: "aboutme"
+#  Index: "index"
+#  Projects: "projects"
   Fanpage: "https://www.facebook.com/Coffee-Talk-1956617477762788/"
 #  Resume: "resume/Anudit_Verma.pdf"
 #  Tags: "tags"
