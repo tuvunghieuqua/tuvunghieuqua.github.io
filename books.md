@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Anudit Verma - My Book Recommendations
+title: Coffee Talk - Books I Will Read
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
