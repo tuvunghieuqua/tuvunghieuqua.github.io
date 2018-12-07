@@ -31,7 +31,8 @@ navbar-links:
 #  About Me: "aboutme"
 #  Index: "index"
 #  Projects: "projects"
-  Fanpage: "https://www.facebook.com/Coffee-Talk-1956617477762788/"
+#  Fanpage: "https://www.facebook.com/Coffee-Talk-1956617477762788/"
+  Life Score: "lifescore"
 #  Resume: "resume/Anudit_Verma.pdf"
 #  Tags: "tags"
 
@@ -62,7 +63,7 @@ avatar: "/img/av.jpg"
 author:
   name: Coffee Talk
 # email: "youremail@domain.com"
-  facebook: Coffee-Talk-1956617477762788
+  facebook: coffeetalk101
 #  github: CoffeeTalk101
 #  twitter: CoffeeTalk
 #  google-plus: +AnuditVerma
