@@ -12,7 +12,7 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Name of website
-title: Coffee Talk
+title: English By AnKi
 
 #For my changes
 # use meta-title: for the center heading of the page.
@@ -26,7 +26,7 @@ description: "When we strive to become better than we are, everything around us 
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://coffeetalk101.github.io/"
+  Home: "https://tuvunghieuqua.github.io/"
   Books: "books"
 #  About Me: "aboutme"
 #  Index: "index"
@@ -61,7 +61,7 @@ avatar: "/img/av.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Coffee Talk
+  name: English For Everyone
 # email: "youremail@domain.com"
   facebook: coffeetalk101
 #  github: CoffeeTalk101
